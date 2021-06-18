@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main function description
+ * main function description is here
  *
  * Return: Always 0
  */
