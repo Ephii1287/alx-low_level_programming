@@ -1,1 +1,1 @@
-# hello world c programming files
+# hello world c programming project files
