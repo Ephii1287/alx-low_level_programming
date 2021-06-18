@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main function description is here
+ * main function describes if n is less than 5, greater than 6 or 0.
  *
  * Return: Always 0
  */
