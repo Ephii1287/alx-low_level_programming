@@ -7,8 +7,7 @@
 *
 */
 
-int main(void)
-  
+int main(void)  
 {
 
 char chartype;
