@@ -1,13 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
-* main - prints out data types for float, int, char and others
+* main - Entry point
 *
 * return: o
 *
 */
 
 int main(void)
+  
 {
 
 char chartype;
