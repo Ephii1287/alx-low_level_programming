@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
-* main - prints out data types for float, int, char and others.
+* main - prints out data types for float, int, char and others
 *
 * return: o
 *
