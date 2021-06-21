@@ -1,0 +1,25 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+/** main - prints out data types for float, int, char and others.
+ *
+ * return: o
+ *
+*/
+
+int main(void)
+{
+
+  char chartype;
+  int inttype;
+  long int longinttype;
+  long long int longlonginttype;
+  float floattype;
+
+     printf(" size of char: %d byte(s)\n", sizeof(chartype));
+     printf(" size of int: %d byte(s)\n", sizeof(inttype));
+     printf(" size of long int: %d byte(s)\n", sizeof(longinttype));
+     printf(" size of long long int: %d byte(s)\n", sizeof(longlonginttype));
+     printf(" size of float: %d byte(s)\n", sizeof(floattype));
+     return (0);
+}
