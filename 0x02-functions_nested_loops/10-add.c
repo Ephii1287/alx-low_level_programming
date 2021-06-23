@@ -5,6 +5,7 @@
 *
 * @a: number one.
 * @b: number two.
+*/
 int add(int a, int b)
 {
 return (a + b);
