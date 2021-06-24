@@ -1,18 +1,16 @@
 #include "holberton.h"
 
 /**
-* Print_numbers - Checks if input is  between 0 to 9.
-* @i: input number.
-* Return: Numbers
-*/
+ * print_numbers - prints numbers between 0 to 9.
+ * Return: no return.
+ */
 void print_numbers(void)
 {
-int i;
+	int ch;
 
-for (i = 48; i <= 57; i++)
-{
-
-_putchar(i);
-}
-_putchar('\n');
+	for (ch = 48; ch < 58; ch++)
+	{
+		_putchar(ch);
+	}
+	_putchar('\n');
 }
