@@ -19,6 +19,3 @@ else
 {
 return (0);
 }
- _putchar('\n');
-}
-
