@@ -1,0 +1,1 @@
+# project works on pointers arrays and strings
